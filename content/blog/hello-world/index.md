@@ -3,7 +3,7 @@ description: Hello World
 title: Hello World
 ---
 
-Hey! Coucou!
+Hey! Coucou! Test
 
 This is my first post on my new fake blog! How exciting!
 
@@ -20,4 +20,4 @@ Oh, and here's a great quote from this Wikipedia on
 > salted duck eggs have a briny aroma, a gelatin-like egg white and a
 > firm-textured, round yolk that is bright orange-red in color.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+![Chinese Salty Egg](/../../../demo-content./salty_egg.jpg)
