@@ -1,7 +1,9 @@
 ---
+description: Hello World
 title: Hello World
-description: "Hello World"
 ---
+
+Hey! Coucou!
 
 This is my first post on my new fake blog! How exciting!
 
